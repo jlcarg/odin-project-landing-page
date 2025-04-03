@@ -186,3 +186,10 @@ button {
     border: 1px solid white;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 30px 80px;
+}
