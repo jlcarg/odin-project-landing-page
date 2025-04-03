@@ -161,3 +161,28 @@ button {
 .signature {
     align-self: end;
 }
+
+.call-to-action-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+    color: white;
+    margin: 60px 80px;
+    padding: 30px 70px;
+    border-radius: 7px;
+}
+
+.call-header {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.call-text {
+    font-size: 17px;
+}
+
+.call-right > .button-sign-up {
+    border: 1px solid white;
+}
+
